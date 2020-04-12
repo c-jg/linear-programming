@@ -1,0 +1,27 @@
+TJ, Inc.’s makes three nut mixes for sale to grocery chains located in the Southeast. The three mixes, referred to as the Regular Mix, the Deluxe Mix, and the Holiday Mix, are made by mixing different percentages of five types of nuts.
+In preparation for the fall season, TJ, Inc.’s just purchased the following shipments of nuts at the prices shown:
+
+=============================================================================
+        Shipment Amount (pounds)              Cost per Shipment ($)
+
+Almond          6000                                  7500
+Brazil          7500                                  7125
+Filbert         7500                                  6750
+Pecan           6000                                  7200
+Walnut          7500                                  7875
+=============================================================================
+
+The Regular Mix consists of 15% almonds, 25% Brazil nuts, 25% filberts, 10% pecans, and 25% walnuts. The Deluxe Mix consists of 20% of each type of nut, and the Holiday Mix con- sists of 25% almonds, 15% Brazil nuts, 15% filberts, 25% pecans, and 20% walnuts.
+An accountant at TJ, Inc. analyzed the cost of packaging materials, sales price per pound, and so forth, and determined that the profit contribution per pound is $1.65 for the Regular Mix, $2.00 for the Deluxe Mix, and $2.25 for the Holiday Mix. These figures do not include the cost of specific types of nuts in the different mixes because that cost can vary greatly in the commodity markets.
+Customer orders already received are summarized here:
+
+================================================
+Type of Mix                 Orders (pounds)
+  Regular                        10,000
+  Deluxe                         3,000
+  Holiday                        5,000
+================================================
+
+
+Because demand is running high, it is expected that TJ, Inc. will receive many more orders than can be satisfied.
+TJ, Inc. is committed to using the available nuts to maximize profit over the fall season; nuts not used will be given to a local charity. Even if it is not profitable to do so, TJ, Inc.’s president indicated that the orders already received must be satisfied.

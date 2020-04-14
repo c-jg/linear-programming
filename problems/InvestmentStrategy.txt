@@ -1,0 +1,27 @@
+J. D. Williams, Inc., is an investment advisory firm that manages more than $120 million in funds for its numerous clients. 
+
+The company uses an asset allocation model that recommends the portion of each client’s portfolio to be invested in a:
+    * Growth fund
+    * Income fund
+    * Money Market fund
+    
+To maintain diversity in each client’s portfolio, the firm places limits on the percentage of each portfolio that may be invested in each of the three funds:
+    * Growth Fund: between 20% and 40% of the total portfolio value
+    * Income Fund: between 20% and 50% of the total portfolio value
+    * Money Market Fund: at least 30% of the total portfolio value
+
+In addition, the company attempts to assess the risk tolerance of each client and adjust the portfolio to meet the needs of the individual investor. 
+For example, Williams just contracted with a new client who has $800,000 to invest. 
+Based on an evaluation of the client’s risk tolerance, Williams assigned a maximum risk index of 0.05 for the client. 
+The firm’s risk indicators show the risk of each fund:
+    * Growth fund: 0.10,
+    * Income fund: 0.07
+    * Money market fund: 0.01 
+
+An overall portfolio risk index is computed as a weighted average of the risk rating for the three funds where the weights are the fraction of the client’s portfolio invested in each of the funds. 
+Additionally, Williams is currently forecasting annual yields of:
+    * Growth fund: 18% 
+    * Income fund: 12.5%
+    * Money Market fund: 7.5%
+
+Based on the information provided, how should the new client be advised to allocate the $800,000 among the growth, income, and money market funds?

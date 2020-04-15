@@ -1,0 +1,39 @@
+The Flamingo Grill is an upscale restaurant located in St. Petersburg, Florida. 
+
+To help plan an advertising campaign for the coming season, Flamingo’s management team hired the advertising firm of Haskell & Johnson (HJ). 
+The management team requested HJ’s recom- mendation concerning how the advertising budget should be distributed across television, radio, 
+and online advertisements. 
+
+The budget has been set at $279,000.
+
+In a meeting with Flamingo’s management team, HJ consultants provided the following information about the industry exposure effectiveness 
+rating per ad, their estimate of the number of potential new customers reached per ad, and the cost for each ad:
+
+Advertising Media           Exposure Rating per Ad          New Customers per Ad            Cost per Ad
+    Television                      90                              4,000                     $10,000
+    Radio                           25                              2,000                     $3,000
+    Online                          10                              1,000                     $1,000
+
+The exposure rating is viewed as a measure of the value of the ad to both existing customers and potential new customers. 
+It is a function of such things as image, message recall, visual and audio appeal, and so on. As expected, the more expensive television 
+advertisement has the highest exposure effectiveness rating along with the greatest potential for reaching new customers.
+At this point, the HJ consultants pointed out that the data concerning exposure and reach were only applicable to the first few ads in 
+each medium. For television, HJ stated that the exposure rating of 90 and the 4000 new customers reached per ad were reliable for the 
+first 10 television ads. After 10 ads, the benefit is expected to decline. For plan- ning purposes, HJ recommended reducing the exposure 
+rating to 55 and the estimate of the potential new customers reached to 1500 for any television ads beyond 10. For radio ads, the 
+preceding data are reliable up to a maximum of 15 ads. Beyond 15 ads, the exposure rating declines to 20 and the number of new customers 
+reached declines to 1200 per ad. Similarly, for online ads, the preceding data are reliable up to a maximum of 20; the exposure rating 
+declines to 5 and the potential number of new customers reached declines to 800 for additional ads.
+Flamingo’s management team accepted maximizing the total exposure rating, across all media, as the objective of the advertising campaign. 
+
+Because of management’s concern with attracting new customers, management stated that the advertising campaign must reach at least 
+100,000 new customers. To balance the advertising campaign and make use of all advertising media, Flamingo’s management team also 
+adopted the following guidelines:
+    ● Use at least twice as many radio advertisements as television advertisements.
+    ● Use no more than 20 television advertisements.
+    ● The television budget should be at least $140,000.
+    ● The radio advertising budget is restricted to a maximum of $99,000.
+    ● The online budget is to be at least $30,000.
+    
+HJ agreed to work with these guidelines and provide a recommendation as to how the $279,000 advertising budget should be allocated 
+among television, radio, and online advertising.

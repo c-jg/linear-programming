@@ -46,11 +46,19 @@ for d in DIST_CENTERS:
     prob += lpSum([route_vars[p][d] for p in PLANTS]) == DEMAND[d], "Sum of Shipment into %s" %d
 
 # Solve problem
-prob.writeLP("FosterGenTransportation.lp")
+prob.writeLP("solutions/FosterGenTransportation.lp")
 prob.solve()
-print("Status: ", LpStatus[prob.status])
+print(f"Status: {LpStatus[prob.status]}")
+
+# Clean output
+def clean_route(route):
+    details = route.split("_")
+    if len(details) < 4:
+        return f"{details[1]} to {details[2]}"
+    else:
+        return f"{details[1]} to {details[2]} {details[3]}"
 
 # print results
 for v in prob.variables():
-    print(f"{v.name} = {v.varValue}")
+    print(f"{clean_route(v.name)} = {int(v.varValue)}")
 print(f"Optimal Objective Value: ${value(prob.objective)}")

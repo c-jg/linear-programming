@@ -2,7 +2,7 @@
 
 Solving optimization problems with [PuLP](https://github.com/coin-or/pulp).  
 
-Problems include:
+Currently working on the following types of problems:
 * Transportation
 * Blending
 * Transshipment

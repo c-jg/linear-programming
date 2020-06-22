@@ -1,5 +1,5 @@
-# Linear Programming with PuLP
-#### Solving optimization problems in Python with [PuLP](https://github.com/coin-or/pulp).  
+# Linear Programming in Python
+#### Solving optimization problems using the [PuLP](https://github.com/coin-or/pulp) Python library.  
 
 [Transshipment Example](https://github.com/c-jg/linear-programming/blob/master/solutions/SAS.py):
 
